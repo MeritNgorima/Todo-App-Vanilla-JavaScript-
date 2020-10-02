@@ -1,1 +1,1 @@
-check out the project on merittodo.netlify.app
+check the project  on merittodo.netlify.app
